@@ -51,5 +51,25 @@ nav a:hover, nav a.selected
   margin-right: 1.2em
   color: inherit!important
 
+# .description
+  # margin: 2em 0
+
+    
+    
+.hidden
+  display: inline-block
+
+{% if site.show_title %}
+
+.title
+  display: block
+  margin-bottom: 1em
+
+{% endif %}
+
+{% if site.show_description %}
+
 .description
   margin: 2em 0
+
+{% endif %}
