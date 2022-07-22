@@ -24,8 +24,8 @@ external:                  # shows a footer with social links - for available ic
 #  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/curiouswendell"}
 
-remote_theme: niklasbuschmann/contrast@v2.11
+# remote_theme: niklasbuschmann/contrast@v2.11
 
 plugins:
- - jekyll-remote-theme
+# - jekyll-remote-theme
  - jekyll-feed
