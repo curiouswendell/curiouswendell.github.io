@@ -11,7 +11,7 @@ date_format: "%B %d, %Y"
 show_excerpts: true        # show article excerpts on the home page
 show_frame: false           # adds a gray frame to the site
 show_sidebar: true        # show a sidebar instead of the usual header
-minimal: true             # use a dark header
+# minimal: true             # use a dark header
 
 # Menu
 
@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
 #  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-#  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Github, icon: github, url: "https://github.com/curiouswendell"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/curiouswendell"}
 
 # remote_theme: niklasbuschmann/contrast@v2.11
