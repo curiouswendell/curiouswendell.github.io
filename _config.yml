@@ -1,6 +1,6 @@
 title: "curiouswendell"
 author: "curiouswendell"
-description: "[]"
+description: "[curiouswendell OSINT learning and thoughts]"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,16 +16,15 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "curiouswendell", icon: home}
+  - {file: "index.html", title: "Home", icon: home}
   - {file: "README.md", title: "About me", icon: eye}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
 #  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-#  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Github, icon: github, url: "https://github.com/curiouswendell"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/curiouswendell"}
 
-# remote_theme: niklasbuschmann/contrast@v2.11
+
 
 plugins:
-# - jekyll-remote-theme
  - jekyll-feed
