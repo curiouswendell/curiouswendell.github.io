@@ -47,7 +47,7 @@ The [Cyber Detective CTF] is a set of challenges created by the Cyber Society at
 *Answer* red blue
 
 **proofinthesignal**  
-*Investigation* Searched <WiGLE.net> for an SSID "jammy" in Bristol, England, GBR; there were at least two pings on St Marks Road.  
+*Investigation* Searched [WiGLE.net](https://www.wigle.net/) for an SSID "jammy" in Bristol, England, GBR; there were at least two pings on St Marks Road.  
 *Answer* St Marks Road
 
 **undercover**  
