@@ -47,7 +47,7 @@ The [Cyber Detective CTF] is a set of challenges created by the Cyber Society at
 *Answer* red blue
 
 **proofinthesignal**  
-*Investigation* Searched WiGLE.net for an SSID "jammy" in Bristol, England, GBR; there were at least two pings on St Marks Road.  
+*Investigation* Searched <WiGLE.net> for an SSID "jammy" in Bristol, England, GBR; there were at least two pings on St Marks Road.  
 *Answer* St Marks Road
 
 **undercover**  
@@ -63,7 +63,7 @@ The [Cyber Detective CTF] is a set of challenges created by the Cyber Society at
 *Answer* Moto G3
 
 **xorelse**  
-*Investigation* I ran the encrypted password through the XOR Decoder here: >https://www.dcode.fr/xor-cipher> and used the "AUTOMATIC (BRUTEFORCE 1 TO 16 BYTES)" option.  This produced 80 results; however, only the plain text result for Hexadecimal key 1c seemed to be a likely password.  
+*Investigation* I ran the encrypted password through the XOR Decoder here: <https://www.dcode.fr/xor-cipher> and used the "AUTOMATIC (BRUTEFORCE 1 TO 16 BYTES)" option.  This produced 80 results; however, only the plain text result for Hexadecimal key 1c seemed to be a likely password.  
 *Answer* MyStrongWiFi54
 
 **mothertongue**  
